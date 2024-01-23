@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 0;
+    background-color: lightblue;
+}
+
+.input {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkblue;
+}
+form {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkblue;
+    
+}
+button{
+    color:black;
+    background-color:white;
+    
+}
+button:hover {
+    background-color: lightblue;
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+    color:darkblue;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 17px;
+}
